@@ -1,0 +1,25 @@
+#back{
+    background : url(scnery.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height:450px;
+}
+#road{
+    background : url(road.jpg);
+}
+#img{
+    width: 150px;
+    
+}
+#btn{
+    background-color: rgb(194, 152, 233);
+    width: 100px;
+    font-size : 30px;
+}
+#dbutton{
+    display: flex;
+    justify-content: center;
+    align-items : center;
+}
